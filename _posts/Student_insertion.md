@@ -2,7 +2,7 @@
 date: 2019-05-01
 title: Inserting a student
 categories:
-  
+  -Main
 author_staff_member: Waleed
 ---
 
