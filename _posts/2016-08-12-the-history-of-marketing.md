@@ -1,6 +1,6 @@
 ---
 date: 2016-08-12
-title: The history of marketing
+title: Inserting a Student
 categories:
   - marketing
 author_staff_member: robin
