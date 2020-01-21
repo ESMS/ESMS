@@ -12,5 +12,5 @@ To add a teacher, his/her authority must be defined. This means, whether or not 
 
 All teachers can mark their students via the App provided. They can mark the students their respective subjects.
 
-![Checkmate](https://esms.github.io/ESMS/images/teachers.PNG)
+![Checkmate](https://esms.github.io/ESMS/images/teachers.png)
 
